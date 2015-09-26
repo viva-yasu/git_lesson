@@ -87,3 +87,6 @@ $ git commit -a --amend
 ```
 $ git commit -C HEAD -a --amend
 ```
+
+### revertのとために
+あとでこの履歴を取り消す
