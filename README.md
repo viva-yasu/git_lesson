@@ -90,7 +90,3 @@ $ git commit -C HEAD -a --amend
 
 ### revertのとために
 あとでこの履歴を取り消す
-
-
-追加
-テスト
